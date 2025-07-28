@@ -8,10 +8,6 @@
 **Bachelor of Technology | 2018-2022  | BioTechnology** <br>
 <img src="www/Vignan-University-Logo.jpg" alt="Vignan" width="250"/><br>
 
-When someone asks me about biotechnogy : <br>
-<video controls src="https://github.com/AjayKumarOruganti-Sanofi/Ajay_Introduction/main/www/biotechnology.mp4" title="BioTechnology"></video>
-<br>
-
 ### My Participation in Vignan:
 
 <img src="www/theatre.jpg" alt="TheatreArts" width="150"/>
