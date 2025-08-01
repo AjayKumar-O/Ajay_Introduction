@@ -5,6 +5,8 @@
 _Late Phase Team, SPAR_
 
 ---
+#### Guiding Principles: Stay Curious, Be Humble, and Keep Learning
+---
 
 <img src="www/timeline_chart.jpeg" alt="Timeline" width="400" height="200"/>
 
